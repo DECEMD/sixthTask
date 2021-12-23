@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SixthTask</string>
+    <string name="name">Имя</string>
+    <string name="second_name">Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="save">Сохранить</string>
+    <string name="text_in_frag_details">Empty one</string>
+    <string name="edit_button_frag_details">Edit contact</string>
+    <string name="contact_name_tv">Имя Фамилия</string>
+    <string name="contact_phone_tv">+79996621901</string>
+    <string name="contact_placeholder">Имя Фамилия</string>
+    <string name="phone_placeholder">+78005553535</string>
+    <string-array name="names">
+        <item>Миахил</item>
+        <item>Петр</item>
+        <item>Иосиф</item>
+        <item>Василий</item>
+        <item>Виталий</item>
+        <item>Дмитрий</item>
+        <item>Даниил</item>
+        <item>Константин</item>
+        <item>Владислав</item>
+        <item>Артемий</item>
+        <item>Юра</item>
+    </string-array>
+
+    <string-array name="secondNames">
+        <item>Прокофьев</item>
+        <item>Немчинов</item>
+        <item>Адонин</item>
+        <item>Коробов</item>
+        <item>Медведев</item>
+        <item>Уткин</item>
+        <item>Бобриков</item>
+        <item>Тарасов</item>
+        <item>Ибрагимович</item>
+        <item>Короченцев</item>
+        <item>Поркшеян</item>
+    </string-array>
+</resources>
